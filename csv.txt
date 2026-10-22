@@ -1,0 +1,19 @@
+Song,Artist,Genre,Language
+Shape of You,Ed Sheeran,Pop,English
+Perfect,Ed Sheeran,Romantic,English
+Blinding Lights,The Weeknd,Pop,English
+Believer,Imagine Dragons,Rock,English
+Thunder,Imagine Dragons,Rock,English
+Someone Like You,Adele,Pop,English
+Let It Be,The Beatles,Rock,English
+Faded,Alan Walker,Electronic,English
+Alone,Alan Walker,Electronic,English
+Kesariya,Arijit Singh,Romantic,Hindi
+Tum Hi Ho,Arijit Singh,Romantic,Hindi
+Channa Mereya,Arijit Singh,Romantic,Hindi
+Malare,Vijay Yesudas,Melody,Malayalam
+Pavizha Mazha,KS Harisankar,Melody,Malayalam
+Darshana,Hesham Abdul Wahab,Melody,Malayalam
+Jai Ho,A R Rahman,Classical,Hindi
+Vande Mataram,A R Rahman,Classical,Hindi
+Canon in D,Johann Pachelbel,Classical,Instrumental
