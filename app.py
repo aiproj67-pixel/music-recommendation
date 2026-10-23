@@ -1,4 +1,9 @@
+import streamlit as st
 
+st.set_page_config(page_title="Music Recommendation System")
+st.title("🎵 Music Recommendation System")
+st.success("Streamlit is rendering the page!")
+st.write("If you can see this, the app is running.")
 # ------------------------- Data loading -------------------------
 from pathlib import Path
 
